@@ -4,6 +4,7 @@
 > + 姓名：林鈺茹
 > + 系級：科技系114年級
 ## 課程筆記區
+<<<<<<< HEAD
 > ## week1 
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
@@ -11,5 +12,7 @@
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > + [個人網站1](https://lindergithub.github.io/Web/page1/)
 > + [查詢網站](https://www.w3schools.com/html/default.asp)
+=======
+>>>>>>> parent of 6018a41 (Merge branch 'main' of https://github.com/Lindergithub/Web)
 ## 作業連結區
 ## 專題連結區
