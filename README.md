@@ -9,7 +9,7 @@
 
 > ## week2 
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)
-> + [個人網站]()
+> + [個人網站1](https://lindergithub.github.io/Web/page1/)
 > + [查詢網站](https://www.w3schools.com/html/default.asp)
 ## 作業連結區
 ## 專題連結區
