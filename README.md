@@ -12,6 +12,9 @@
 > + [個人網站1](https://lindergithub.github.io/Web/page1/)
 > + [個人網站2](https://lindergithub.github.io/Web/page2/)
 > + [查詢網站](https://www.w3schools.com/html/default.asp)
+
+> ## week3
+> + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ## 作業連結區
 ## 專題連結區
 ### 暫存一下
