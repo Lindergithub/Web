@@ -6,13 +6,11 @@
 ## 課程筆記區
 > ## week1 
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)
-
 > ## week2 
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > + [個人網站1](https://lindergithub.github.io/Web/page1/)
 > + [個人網站2](https://lindergithub.github.io/Web/page2/)
 > + [查詢網站](https://www.w3schools.com/html/default.asp)
-
 > ## week3
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ## 作業連結區
