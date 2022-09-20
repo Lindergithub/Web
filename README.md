@@ -34,3 +34,13 @@
       <p><span class="typed" data-typed-items="國立臺灣師範大學 科技應用與人力資源發展學系"></span></p>
     </div>
   </section><!-- End Hero -->
+
+
+ <h1>林鈺茹</h1>
+      <p>就讀於</p>
+    <div>  
+      <p>國立臺灣師範大學</p>
+    </div>
+    <div>  
+      <p>科技應用與人力資源發展學系</p>
+    </div>
