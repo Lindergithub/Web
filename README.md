@@ -25,6 +25,8 @@
 
 > ## week4
 > + [ppt](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)
+> + [好用](https://www.google.com/url?q=https://bird23074035.medium.com/node-js-%25E8%25B5%25B7%25E6%2589%258B%25E5%25BC%258F-%25E8%2587%25AA%25E6%259E%25B6%25E4%25B8%2580%25E5%2580%258B-web-server-9672f29a6102&sa=D&source=editors&ust=1664251033893601&usg=AOvVaw1GgVc5_QIC7cHdaVcjes_p)
+
 ## 作業連結區
 ## 專題連結區
 ### 暫存一下
