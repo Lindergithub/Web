@@ -5,7 +5,7 @@
 > + 系級：科技系114年級
 ## 目錄
 > 1. [課程筆記區](https://github.com/Lindergithub/Web/edit/main/README.md#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
-> 2. [作業連結區](https://github.com/Lindergithub/Web/edit/main/README.md#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
+> 2. [作業連結區]https://github.com/Lindergithub/Web#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
 > 3. [專題連結區](https://github.com/Lindergithub/Web/edit/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 ## 課程筆記區
 [markdown語法](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#blockquote)
