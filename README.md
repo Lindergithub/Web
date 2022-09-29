@@ -30,23 +30,3 @@
 
 ## 作業連結區
 ## 專題連結區
-### 暫存一下
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-    
-      <h1>林鈺茹</h1>
-      <p>就讀於</p>
-    <div class="hero-container" data-aos="fade-in">
-      <p><span class="typed" data-typed-items="國立臺灣師範大學 科技應用與人力資源發展學系"></span></p>
-    </div>
-  </section><!-- End Hero -->
-
-
- <h1>林鈺茹</h1>
-      <p>就讀於</p>
-    <div>  
-      <p>國立臺灣師範大學</p>
-    </div>
-    <div>  
-      <p>科技應用與人力資源發展學系</p>
-    </div>
