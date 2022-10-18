@@ -10,7 +10,8 @@
 ## 課程筆記區
 ### [web repo](https://docs.google.com/spreadsheets/d/1S_Xopj7dOXERInd95NIaY_GwEF8_9jK3B86ha7O20f8/edit#gid=884569307)
 + 筆記
-+ + [markdown語法](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#blockquote)
+> + [ ](https://docs.google.com/document/d/1abl0wJfNQNXvGr7TO71BSQaX-mxAqDCJHgLiv-a7844/edit)
+> + [markdown語法](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#blockquote)
 > + [個人網站1](https://lindergithub.github.io/Web/page1/)
 > + [個人網站2](https://lindergithub.github.io/Web/page2/)
 > + [W3schools](https://www.w3schools.com/html/default.asp)
