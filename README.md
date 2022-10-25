@@ -21,6 +21,8 @@
 
 > + [好用](https://www.google.com/url?q=https://bird23074035.medium.com/node-js-%25E8%25B5%25B7%25E6%2589%258B%25E5%25BC%258F-%25E8%2587%25AA%25E6%259E%25B6%25E4%25B8%2580%25E5%2580%258B-web-server-9672f29a6102&sa=D&source=editors&ust=1664251033893601&usg=AOvVaw1GgVc5_QIC7cHdaVcjes_p)
 
++ [vedio](https://www.youtube.com/watch?v=5A1kyY9VrR0&list=PLH3VeiMX0ckhHthPlo-fAcCjpxUIRxcJm)
+
 + PPT
 > + [week1](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > + [week2](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p) 
