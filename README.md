@@ -33,7 +33,8 @@
 > + [week7](https://docs.google.com/presentation/d/e/2PACX-1vSSEM1SXvM4t0wwpSt9oNdG5uNm30FSAPNl6wvtoeexWk5w38FqFwVsuLGKIjWp04Tu_DZVNjU2ebjx/pub?start=false&loop=false&delayms=3000&slide=id.p) 
 > + [week8](https://docs.google.com/presentation/d/e/2PACX-1vQy5r-MJNlBQzTtEEuDssJh2BOOOT6Yh2dDxdSHtDF2BtdXAgY4GECs_48o7JvCpIVVyw4Kxz3bwlRz/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > + [week9](https://docs.google.com/presentation/d/e/2PACX-1vT8HwruQJiCoMUzmtlkEmzC5gCkDD0Ma_5f_3fGuvI8cl8QWc9L-sU-Dc43ZgEk7M9sUm9MWLQMVW7n/pub?start=false&loop=false&delayms=3000&slide=id.p)
-
+> + [week10]
+> + [week11](https://docs.google.com/presentation/d/e/2PACX-1vTSqaEeMwLF_Zhjx_SzcggFRlLB9UdF-GRU7eXDf4hlbqQfd_lm0qqLtweAsOW59YFEeLxabarZbt9T/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## 作業連結區
 > + [作業一](https://youtu.be/2pe33okhrPo)
