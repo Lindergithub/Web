@@ -6,7 +6,7 @@
 ## 目錄
 > 1. [課程筆記區](https://github.com/Lindergithub/Web/edit/main/README.md#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
 > 2. [作業連結區](https://github.com/Lindergithub/Web#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
-> 3. [專題連結區](https://github.com/Lindergithub/Web/edit/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
+> 3. [專題連結區](https://github.com/Lindergithub/Web?tab=readme-ov-file#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 ## 課程筆記區
 ### [web repo](https://docs.google.com/spreadsheets/d/1S_Xopj7dOXERInd95NIaY_GwEF8_9jK3B86ha7O20f8/edit#gid=884569307)
 + 筆記
