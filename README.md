@@ -13,7 +13,7 @@
 > + [MySQL set up code](https://docs.google.com/document/d/1abl0wJfNQNXvGr7TO71BSQaX-mxAqDCJHgLiv-a7844/edit)
 > + [markdown語法](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#blockquote)
 > + [個人網站1](https://lindergithub.github.io/Web/page1/)
-> + [個人網站2](https://lindergithub.github.io/Web/page2/)
+> + [個人網站2](https://lindergithub.github.io/WebHW/HWpage/)
 > + [W3schools](https://www.w3schools.com/html/default.asp)
 
 > + [通訊協定：Protocol](http://www.tsnien.idv.tw/Network_WebBook/chap1/1-4%20%E4%BD%95%E8%AC%82%E9%80%9A%E8%A8%8A%E5%8D%94%E5%AE%9A%EF%BC%9F.html)
