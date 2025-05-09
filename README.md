@@ -37,9 +37,9 @@
 > + [week11](https://docs.google.com/presentation/d/e/2PACX-1vTSqaEeMwLF_Zhjx_SzcggFRlLB9UdF-GRU7eXDf4hlbqQfd_lm0qqLtweAsOW59YFEeLxabarZbt9T/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## 作業連結區
-> + [作業一](https://youtu.be/2pe33okhrPo)
-> + [作業二](https://youtu.be/3In_RilpCCw)
-> + [作業三](https://youtu.be/HeHzhU1PqrQ)
-> + [作業四](https://youtu.be/dPodcUL9hds)
-> + [作業五](https://youtu.be/JwVsK86REHQ)
+> + [作業一:在github建立repo、個人靜態網站，並同步地端雲端](https://youtu.be/2pe33okhrPo)
+> + [作業二:使用MySQL、react、node.js建立Web2](https://youtu.be/3In_RilpCCw)
+> + [作業三:AWSeducateLab1(S3)、Lab2(EC2)](https://youtu.be/HeHzhU1PqrQ)
+> + [作業四:AWSeducateLab5(Amazon VPC)、Lab6(IAM)](https://youtu.be/dPodcUL9hds)
+> + [作業五:AWSeducateLab3(DynamoDB)、Lab4(Amazon RDS)、Lab7(Amazon S3託管靜態網站)](https://youtu.be/JwVsK86REHQ)
 ## 專題連結區
